@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+h1 {
+    background-color: rgba(149, 66, 66, 0.808);
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    background-color: rgba(149, 87, 87, 0.808);
+    text-align: center;
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(218, 137, 105);
+}
+
+.main-image-recipe {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
